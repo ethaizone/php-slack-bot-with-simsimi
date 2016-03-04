@@ -8,3 +8,6 @@ Example Slack bot in PHP language that connect to Simsimi api sandbox. This one 
 - Run `composer install` to install dependency packages.
 - Run `php bot.php` to start bot.
 - Invite your bot to channel and try to mention it. It will talk back to you. Have fun.
+
+# Language to talk?
+Default is English. If you want to talk bot with another language, edit config to change locale of simsimi api. View locale support at http://developer.simsimi.com/lclist.

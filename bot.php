@@ -10,8 +10,8 @@ $config = [
     'simsimi' => [
         // 'endpoint' => 'http://api.simsimi.com/request.p',    // paid key
         'endpoint' => 'http://sandbox.api.simsimi.com/request.p',   // trial key
-        'token'  => 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx',
-        'locale' => 'en'
+        'token'    => 'xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx',
+        'locale'   => 'en'    // View locale support at http://developer.simsimi.com/lclist.
     ]
 ];
 
